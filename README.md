@@ -1,18 +1,18 @@
-#  Biometric Attendance System using Raspberry Pi 3 and Fingerprint Sensor
+#  Biometric Attendance System using Raspberry Pi 4 and Fingerprint Module R30
 
-This project implements a biometric-based attendance system using a **Raspberry Pi 3** and a **fingerprint sensor module** (e.g., R305). The system securely captures user fingerprints, verifies identities, and logs attendance in real time.
+This project implements a biometric-based attendance system using a **Raspberry Pi 4** and a **fingerprint sensor module** (e.g., R307). The system securely captures user fingerprints, verifies identities, and logs attendance in real time.
 
 ---
 
 ##  1. Components Required
 
-- Raspberry Pi 3 (Model B or B+)
-- Fingerprint Sensor Module (R305 or GT-511C3)
+- Raspberry Pi 4 Model B 
+- Fingerprint Sensor Module R307
 - Jumper Wires
-- Breadboard (optional)
-- MicroSD Card (16GB or more) with Raspberry Pi OS
+- Breadboard
+- MicroSD Card 32GB or more with Raspberry Pi OS
 - Power Supply for Raspberry Pi (5V/2.5A)
-- Monitor + HDMI Cable + Keyboard (for initial setup)
+- Monitor + HDMI Cable + Keyboard
 - **Optional:** LCD/LED display for visual feedback
 
 ---
