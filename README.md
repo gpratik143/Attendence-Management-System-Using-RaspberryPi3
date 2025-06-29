@@ -1,4 +1,4 @@
-#  Biometric Attendance System using Raspberry Pi 4 and Fingerprint Module R30
+#  Biometric Attendance System using Raspberry Pi 4 and Fingerprint Module R307
 
 This project implements a biometric-based attendance system using a **Raspberry Pi 4** and a **fingerprint sensor module** (e.g., R307). The system securely captures user fingerprints, verifies identities, and logs attendance in real time.
 
