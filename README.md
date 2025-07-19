@@ -70,13 +70,13 @@ python3 Main.py
 ![User Registration](https://github.com/gpratik143/PiScan-Attendance/blob/main/Outputs/Attendance.png)
 - Mark Attendance: Allows check-in/check-out with fingerprint match.
 
-![User Registration](Outputs\MarkAttendance.png)
+![Attendance](https://github.com/gpratik143/PiScan-Attendance/blob/main/Outputs/MarkAttendance.png)
 - Date-wise Attendance: Filter logs by date, department, or status.
 
-![Date Wise Attendance](Outputs\DateWiseFilter.png)
+![Date Wise Attendance](https://github.com/gpratik143/PiScan-Attendance/blob/main/Outputs/DateWiseFilter.png)
 - Reports: View attendance stats and generate PDF or CSV reports.
 
-![Report](Outputs\Statistics.png)
+![Report](https://github.com/gpratik143/PiScan-Attendance/blob/main/Outputs/Statistics.png)
 - User Management: Edit or delete registered users.
 
 ### 5. Database Structure (users.db)
