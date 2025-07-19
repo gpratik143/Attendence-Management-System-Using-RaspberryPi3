@@ -67,7 +67,7 @@ python3 Main.py
 ### 5. Modules Overview
 - Register User: Captures and saves fingerprint + user data.
 
-![User Registration](Outputs\MarkAttendance.png)
+![User Registration](https://github.com/gpratik143/PiScan-Attendance/blob/main/Outputs/Attendance.png)
 - Mark Attendance: Allows check-in/check-out with fingerprint match.
 
 ![User Registration](Outputs\MarkAttendance.png)
